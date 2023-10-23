@@ -1,0 +1,24 @@
+version: "3.9"
+services:
+
+  discovery:
+    build: C:\Users\asus\Desktop\EurekaServer1
+    ports:
+      - "8761:8761"
+    image: "eurekaserver"
+  evenemnt:
+    build: C:\Users\asus\Desktop\4SAE4\EvennemntUser
+    environment:
+      - eureka.client.serviceUrl.defaultZone=http://discovery:8761/eureka/
+    ports:
+      - "3000:8080"
+    image: "user"
+    depends_on:
+      - discovery
+  gateway:
+    build: C:\Users\asus\Desktop\ApiGateway
+    environment:
+      - eureka.client.serviceUrl.defaultZone=http://discovery:8761/eureka/
+    ports:
+      - "8180:8180"
+    image: "apigateway"
