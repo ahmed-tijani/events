@@ -1,6 +1,0 @@
-com\example\evenement\service\ITicketService.class
-com\example\evenement\controller\TicketController.class
-com\example\evenement\repository\TicketRepository.class
-com\example\evenement\entities\Ticket.class
-com\example\evenement\EvenementApplication.class
-com\example\evenement\service\TicketService.class

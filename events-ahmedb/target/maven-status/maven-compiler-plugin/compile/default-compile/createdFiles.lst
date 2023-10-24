@@ -1,5 +1,0 @@
-com\example\evenement\Entities\Reclamation.class
-com\example\evenement\EvenementApplication.class
-com\example\evenement\Services\ReclamationService.class
-com\example\evenement\Repositories\IReclamationRepo.class
-com\example\evenement\Controller\ReclamationController.class
