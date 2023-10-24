@@ -1,0 +1,6 @@
+com\example\evennemntuser\Services\UserService.class
+com\example\evennemntuser\Services\IUserService.class
+com\example\evennemntuser\EvennemntUserApplication.class
+com\example\evennemntuser\Controller\UserController.class
+com\example\evennemntuser\Entities\User.class
+com\example\evennemntuser\Repositories\UserRepository.class
