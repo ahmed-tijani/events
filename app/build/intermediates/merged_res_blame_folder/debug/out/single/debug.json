@@ -1,0 +1,330 @@
+[
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\layout_app_bar_home.xml.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\layout\\app_bar_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\drawable_books.png.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\drawable\\books.png"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\drawable_select_product_image.png.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\drawable\\select_product_image.png"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\drawable_sweather.png.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\drawable\\sweather.png"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\drawable_gamepad.png.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\drawable\\gamepad.png"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\layout_activity_cart.xml.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\layout\\activity_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\drawable_fireworks.png.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\drawable\\fireworks.png"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\drawable_applogo.png.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\drawable\\applogo.png"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\drawable_back3.png.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\drawable\\back3.png"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\drawable_mobiles.png.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\drawable\\mobiles.png"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\layout_event_items_layout.xml.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\layout\\event_items_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\layout_activity_event_details.xml.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\layout\\activity_event_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\drawable_login.png.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\drawable\\login.png"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\layout_activity_admin_category.xml.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\layout\\activity_admin_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\drawable_purses_bags.png.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\drawable\\purses_bags.png"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\drawable_cart.png.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\drawable\\cart.png"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\layout_activity_admin_add_new_event.xml.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\layout\\activity_admin_add_new_event.xml"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\layout_nav_header_home.xml.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\layout\\nav_header_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\drawable_female_dresses.png.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\drawable\\female_dresses.png"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\layout_cart_items_layout.xml.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\layout\\cart_items_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\drawable_ic_menu_share.xml.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\drawable\\ic_menu_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\drawable_ic_menu_manage.xml.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\drawable\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\drawable_conterts.png.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\drawable\\conterts.png"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\drawable_talk.png.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\drawable\\talk.png"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\drawable_new_event.png.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\drawable\\new_event.png"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\drawable_ic_menu_slideshow.xml.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\drawable\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\drawable_basketball.png.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\drawable\\basketball.png"
+    },
+    {
+        "merged": "com.example.formulaire.app-merged_res-42:/layout_activity_login.xml.flat",
+        "source": "com.example.formulaire.app-main-44:/layout/activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\drawable_laptops.png.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\drawable\\laptops.png"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\drawable_register.png.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\drawable\\register.png"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\drawable_back.png.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\drawable\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\drawable_ic_menu_gallery.xml.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\drawable\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\drawable_buttons.xml.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\drawable\\buttons.xml"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\drawable_logout.png.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\drawable\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\drawable_plant.png.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\drawable\\plant.png"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\drawable_input_design.xml.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\drawable\\input_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\drawable_category.png.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\drawable\\category.png"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\drawable_welcome.png.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\drawable\\welcome.png"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\drawable_ic_menu_send.xml.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\drawable\\ic_menu_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\drawable_headphoness.png.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\drawable\\headphoness.png"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\drawable_glasses.png.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\drawable\\glasses.png"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\drawable_hats.png.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\drawable\\hats.png"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\menu_home.xml.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\menu\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\drawable_orders.png.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\drawable\\orders.png"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\drawable_watches.png.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\drawable\\watches.png"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\drawable_sports.png.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\drawable\\sports.png"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\drawable_picture.png.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\drawable\\picture.png"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\drawable_tshirts.png.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\drawable\\tshirts.png"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\layout_content_home.xml.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\layout\\content_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\drawable_imprezy_masowe.png.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\drawable\\imprezy_masowe.png"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\drawable_camping.png.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\drawable\\camping.png"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\drawable_cycling.png.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\drawable\\cycling.png"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\drawable_profile.png.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\drawable\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\drawable_nav_cart.png.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\drawable\\nav_cart.png"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\menu_activity_home_drawer.xml.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\menu\\activity_home_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\drawable_ic_menu_camera.xml.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\drawable\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\drawable_shoess.png.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\drawable\\shoess.png"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\drawable_drama.png.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\drawable\\drama.png"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\drawable_painting.png.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\drawable\\painting.png"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\drawable_cinema.png.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\drawable\\cinema.png"
+    },
+    {
+        "merged": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-merged_res-42:\\drawable_back2.png.flat",
+        "source": "C:\\Users\\yassi\\.gradle\\daemon\\8.0\\com.example.formulaire.app-main-44:\\drawable\\back2.png"
+    }
+]
