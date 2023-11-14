@@ -1,0 +1,42 @@
+<!-- popup_modify_rdv.xml -->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/editTextTitle"
+        android:layout_width="match_parent"
+        android:layout_height="72dp"
+        android:hint="New Name" />
+
+    <EditText
+        android:id="@+id/editTextDatedebut"
+        android:layout_width="match_parent"
+        android:layout_height="72dp"
+        android:hint="@string/new_date_debut"
+        android:inputType="datetime" />
+
+    <EditText
+        android:id="@+id/editTextDatefin"
+        android:layout_width="match_parent"
+        android:layout_height="67dp"
+        android:hint="@string/new_date_fin"
+        android:inputType="datetime" />
+
+    <Button
+        android:id="@+id/buttonModify"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/confirm"
+        android:onClick="onModifyButtonClick" />
+
+    <Button
+        android:id="@+id/buttonCancel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/cancel"
+        android:onClick="onCancelModificationButtonClick" />
+</LinearLayout>

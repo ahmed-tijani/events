@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">HealthCareApp</string>
+    <string name="date_d_but">Date début</string>
+    <string name="titre">Titre</string>
+    <string name="date_fin">Date fin</string>
+    <string name="ajouter">Ajouter</string>
+    <string name="ajout_un_rendez_vous">Ajout un rendez-vous</string>
+    <string name="modify">Modify</string>
+    <string name="delete">Delete</string>
+    <string name="modifier_rendez_vous">Modifier rendez-vous</string>
+    <string name="modifier">Modifier</string>
+    <string name="annuler">Annuler</string>
+    <string name="new_date_debut">New Date debut</string>
+    <string name="new_date_fin">New Date fin</string>
+    <string name="new_title">New Title</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+    <string name="ajoutArticle" />
+</resources>
