@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "913791618127",
+    "project_id": "eventr-c121b",
+    "storage_bucket": "eventr-c121b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913791618127:android:758407a3ca49d064a0ae3a",
+        "android_client_info": {
+          "package_name": "com.example.formulaire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2FIlaGqbVETMSSbpX5JJntlWZSY6K46Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
